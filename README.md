@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tom
 
-I'm a registered nurse and clinical educator based in Birmingham, UK, with over 15 years of NHS experience. I’m passionate about using technology to improve clinical education, healthcare delivery, and the everyday experiences of patients and professionals.
+I'm a registered nurse and clinical educator based in Birmingham, UK. I’m passionate about using technology to improve clinical education, healthcare delivery, and the everyday experiences of patients and professionals.
 
 ## 💡 What I Do
 
